@@ -9,3 +9,4 @@ Penilaiannya berupa skor dimana jawaban benar bernilai 10, salah bernilai -2, da
 Jika salah menjawab >5, maka game akan berakhir.
 Permainan dapat kembali dimainkan jika kita menekan tombol 'main lagi'
 
+Link Game: http://dindaprada.unaux.com/
